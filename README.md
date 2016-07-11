@@ -1,5 +1,5 @@
 # Codes CSharp
 Codes CSharp
 
-# Exemplos de códigos usados no dia a dia.
-# Códigos demos.
+- Exemplos de códigos usados no dia a dia.
+- Códigos demos.
